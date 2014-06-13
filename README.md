@@ -6,12 +6,14 @@ Google map on android. Depends on whether user devices have google play service,
 
 Requirement
 ================
-This library requires android google-play-services-lib which could be installed via android sdk manager.
+* Depends on Google Maps Android API v2 and Google Maps JavaScript API v3, you shoud prepared api key.
+* This library requires android google-play-services-lib which could be installed via android sdk manager.
 
 
 
 
 ScreenShot 
+================
 
 ![](/screenshot/Screenshot_native.png)
 ![](/screenshot/Screenshot_web.png)
