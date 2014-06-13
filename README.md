@@ -9,3 +9,9 @@ Requirement
 This library requires android google-play-services-lib which could be installed via android sdk manager.
 
 
+
+
+ScreenShot 
+
+![](/screenshot/Screenshot_native.png)
+![](/screenshot/Screenshot_web.png)
